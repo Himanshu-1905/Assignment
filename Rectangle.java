@@ -1,6 +1,4 @@
-
-
-//package com.cognizant.shapes;
+package com.cognizant.shapes;
 
 public class Rectangle {
     void calculateArea(){
