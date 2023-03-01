@@ -1,4 +1,5 @@
-
+// Movie Theatre Management system, where you can create two classes one is main another one is movie,
+//movie class can have two methods setMovie, getMovie where you can create movieName , movieStarttime, movieEndtime,movieTicketPrice as instance variables.
 public class Movie {
 	
 	private String name;
